@@ -1,0 +1,36 @@
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Node packages (if used later)
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PowerShell
+*.ps1xml
+
+# Solution package zip files
+*.zip
+
+# Environment files
+.env
+.env.*
+
+# Coverage reports
+coverage/
+
+# npm debug logs
+npm-debug.log*
